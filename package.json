@@ -1,0 +1,1 @@
+{\n  "name": "gh-actions-test",\n  "version": "1.0.0",\n  "description": "Test project for GitHub Actions",\n  "scripts": {\n    "test": "echo 'Tests passed!'}\n  },\n  "author": "",\n  "license": "ISC"\n}
