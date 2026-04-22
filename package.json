@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "Test project for GitHub Actions",
   "scripts": {
-    "test": "echo 'Tests passed!'"
+    "test": "echo 'Tests passed!'",
+    "build": "echo 'Building project...'"
   },
   "author": "",
   "license": "ISC"
